@@ -1,6 +1,6 @@
 # Simple Django Login and Registration
 
-An example of Django project with basic user functionality.
+ALERT:THIS IS SHASHI AND THIS PROJECT USED PYTHON VERSION 2.7 SO PLZ KINDLY RUN IN THAT.
 
 ## Screenshots
 
