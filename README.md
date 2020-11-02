@@ -28,7 +28,7 @@ An example of Django project with basic user functionality.
 - Change password
 - Change email
 - Change profile
-- Multilingual: English, Russian, and Simplified Chinese
+- Multilingual: English.
 
 
 ## Installing
@@ -36,8 +36,7 @@ An example of Django project with basic user functionality.
 ### Clone the project
 
 ```
-git clone https://github.com/egorsmkv/simple-django-login-and-register
-cd simple-django-login-and-register
+git clone https://github.com/shashikumar04433/projectpythonloginpage/
 ```
 
 ### Install dependencies & activate virtualenv
